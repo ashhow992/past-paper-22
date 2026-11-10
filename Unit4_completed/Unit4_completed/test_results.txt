@@ -1,0 +1,14 @@
+test_default_length (test_password_generator.PasswordTests.test_default_length) ... ok
+test_invalid_lengths (test_password_generator.PasswordTests.test_invalid_lengths) ... ok
+test_maximum_length (test_password_generator.PasswordTests.test_maximum_length) ... ok
+test_minimum_length (test_password_generator.PasswordTests.test_minimum_length) ... ok
+test_no_categories (test_password_generator.PasswordTests.test_no_categories) ... ok
+test_non_integer_length (test_password_generator.PasswordTests.test_non_integer_length) ... ok
+test_only_digits (test_password_generator.PasswordTests.test_only_digits) ... ok
+test_required_groups (test_password_generator.PasswordTests.test_required_groups) ... ok
+test_varied_outputs (test_password_generator.PasswordTests.test_varied_outputs) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.001s
+
+OK
